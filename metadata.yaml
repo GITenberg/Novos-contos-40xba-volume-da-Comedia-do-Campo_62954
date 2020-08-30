@@ -1,0 +1,38 @@
+_repo: Novos-contos-40xba-volume-da-Comedia-do-Campo_62954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moreno, Bento
+    aliases:
+    - Queirós, Francisco Teixeira de
+    - Queiroz, Teixeira de
+    - Queiros, Francisco Teixeira de
+    birthdate: 1848
+    deathdate: 1919
+    gutenberg_agent_id: '52199'
+    url: http://www.gutenberg.org/2009/agents/52199
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Francisco_Teixeira_de_Queir%C3%B3s
+    - https://en.wikipedia.org/wiki/Francisco_Teixeira_de_Queiroz
+description: ''
+gutenberg_issued: '2020-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62954'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Portuguese'
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: A minha morte -- Nosso Senhor Jesus Christo -- O cego de Guardiam
+  -- A velhice d'um rei -- A mulher de Lucas -- Dois caturras -- A postura dos ovos
+  -- Rende-te Centurião -- A truta grande -- Um corvo e um papagaio -- A vista do
+  salgueiro.
+title: 'Novos contos
+
+  4º volume da Comedia do Campo'
+url: http://www.gutenberg.org/ebooks/62954
